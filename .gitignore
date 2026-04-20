@@ -1,0 +1,15 @@
+# Datasets
+datasets/
+
+
+
+# Jupyter/Colab Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.env
+
+# MacOS
+.DS_Store
