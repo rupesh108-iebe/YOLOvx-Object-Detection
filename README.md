@@ -21,7 +21,7 @@ The datasets were curated and downloaded through Roboflow and contain annotation
 *   **YOLOv5 Dataset**: Annotated for `license-plate` and `vehicle`.
 *   **YOLOv8 Dataset**: Annotated for `Plate`, `front`, and `rear` of vehicles. Versioned for iterative improvements.
 
-*(Note: The datasets and `.zip` files are stored locally or in Google Drive due to their large size, and thus excluded from GitHub).*
+**📥 Download the Datasets here:** [Google Drive Link](https://drive.google.com/drive/folders/11bkQ--AqfTcqEJty_-ZBQ11SwjC6b3VD?usp=sharing)
 
 ## Models
 The model files are the results of training passes on Colab using the `ultralytics` framework. The learned parameters are preserved in the `best.pt` tracking files. 
